@@ -3,7 +3,7 @@
 ## installation 
 
 ```
-pip install -r requirements.txt
+pip install -r requirment.txt
 ```
 ```
 git clone https://github.com/blacksmith69-glitch/Sosovalue
