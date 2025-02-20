@@ -3,7 +3,9 @@
 ## installation 
 
 ```
-git clone https://github.com/Mrjihad28/Sosovalue.git
+pip install -r requirements.txt
+
+git clone https://github.com/blacksmith69-glitch/Sosovalue
 ```
 ```
 cd Sosovalue
