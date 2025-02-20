@@ -3,10 +3,11 @@
 ## installation 
 
 ```
-pip install -r requirment.txt
-```
-```
+
 git clone https://github.com/blacksmith69-glitch/Sosovalue
+```
+```
+pip install -r requirment.txt
 ```
 ```
 cd Sosovalue
