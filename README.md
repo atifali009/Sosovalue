@@ -28,4 +28,4 @@ python main_bot.py
 - Done ✅
 
 ## support 
-TG Channel Join Now : t.me/AirdropTube28
+TG Channel Join Now : t.me/cryptowithAryanog
