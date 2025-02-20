@@ -1,4 +1,4 @@
-## don't use your main account!! & your own risk 
+## USE WITH PRECAUTIONS 
 
 ## installation 
 
