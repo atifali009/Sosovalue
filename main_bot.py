@@ -15,8 +15,8 @@ logo = f"""
 ██║  ██║██║  ██║██║  ██║██║     ██║  ██║   ██║
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝   ╚═╝
 ----------------------------------------------------
-> TG CHANNEL    :  @AirdropTube28
-> YouTube    :  @airdroptube2020
+> TG CHANNEL    :  @cryptowitharyanog
+> YouTube    :  @cryptowitharyan
 \033[1;34m------------------------------------------\033[0m"""
 
 os.system('clear')
