@@ -61,8 +61,8 @@ template = """
     </style>
 </head>
 <body>
-    <h2 class='class1'>Captcha Bypass By Crypto Hub </h2>
-    <h2 class='hclass2'>Join telegram channel : @cryp2xyz </h2>
+    <h2 class='class1'>Captcha Bypass By Crypto With Aryan </h2>
+    <h2 class='hclass2'>Join telegram channel : @cryptowitharyanog </h2>
     <!-- Cloudflare CAPTCHA widget -->
     <div class="cf-turnstile" data-sitekey="0x4AAAAAAA4PZrjDa5PcluqN" data-callback="onCaptchaVerified"></div>
     <p id="status" style="color: green; font-weight: bold;"></p>
