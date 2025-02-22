@@ -7,9 +7,6 @@
 git clone https://github.com/blacksmith69-glitch/Sosovalue
 ```
 ```
-
-```
-```
 cd Sosovalue
 ```
 ```
