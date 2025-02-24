@@ -1,3 +1,2 @@
 eg.
-socks5://IP:PORT
-socks5://IP:PORT
+http://xgxcvdsn:64jq9bzgi38o@107.172.163.27:6543 
