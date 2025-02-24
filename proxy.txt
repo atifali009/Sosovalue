@@ -1,2 +1,6 @@
-eg.
-http://xgxcvdsn:64jq9bzgi38o@107.172.163.27:6543 
+http://username:password@IP:Port 
+http://username:password@IP:Port
+http://username:password@IP:Port
+http://username:password@IP:Port
+http://username:password@IP:Port
+http://username:password@IP:Port
