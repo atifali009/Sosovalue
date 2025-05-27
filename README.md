@@ -1,5 +1,7 @@
 ## USE WITH PRECAUTIONS 
 
+## DONATE ##
+
 ## installation 
 
 ```
