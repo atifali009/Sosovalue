@@ -15,8 +15,8 @@ logo = f"""
 ██║  ██║██║  ██║██║  ██║██║     ██║  ██║   ██║
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝   ╚═╝
 ----------------------------------------------------
-> TG CHANNEL :  @cryptowitharyanog
-> YouTube    :  @cryptowitharyan
+> TG CHANNEL :  @AirdropScripts
+> YouTube    :  @no channel
 \033[1;34m------------------------------------------\033[0m"""
 
 os.system('clear')
