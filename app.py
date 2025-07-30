@@ -11,9 +11,9 @@ if sys.platform.startswith('win'):
 else:
     os.system('clear')
 print("""[~]=========================================[~]
-[~]         Cloudfire Captcha Bypass                 [~]
-[~]         youtube :- cryptowithAryan               [~]
-[~]         TG Channel : @cryptowitharyanog          [~]
+[~]         Cloudfire Captcha bypass                 [~]
+[~]         youtube :- unknown              [~]
+[~]         TG Channel : @AirdropScripts          [~]
 [~]=========================================         [~]
 """.strip())
 print(f'Web url : \033[0;32mhttp://localhost:{prt}\033[0m')
