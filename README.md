@@ -24,7 +24,7 @@ CSCn6JTfcgi9bXp4TtM3hsyqxVnxNgG47XkMkrQqNTH
 
 ```
 
-git clone https://github.com/blacksmith69-glitch/Sosovalue
+git clone https://github.com/atifali009-glitch/Sosovalue
 ```
 ```
 cd Sosovalue
